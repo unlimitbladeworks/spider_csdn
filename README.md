@@ -10,3 +10,6 @@ csdn_spider 本项环境目须知:
 2.语言环境:Python3.6
 
 3.集成库环境:安装好python的Beatifulsoup4,requests,lxml,matplotlib库
+
+如果有学python的初学者,可以关注我的公众号哟！
+![咪哥杂谈](https://img-blog.csdnimg.cn/20181104163828973.png)
